@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"comments","l":"Point"},{"p":"comments","l":"Vector"}];updateSearchResults();
